@@ -1,2 +1,2 @@
-- 👋 Hell wolrd
+- 👋 Hello wolrd
 
